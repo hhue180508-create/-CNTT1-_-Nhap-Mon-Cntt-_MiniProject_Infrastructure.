@@ -1,0 +1,7 @@
+2026-11-10 08:00:01 INFO Sensor ST-001 connected
+2026-11-10 08:01:14 ERROR 404 Route /api/sensors/001 not found
+2026-11-10 08:02:03 INFO Sensor ST-002 sent telemetry
+2026-11-10 08:04:22 CRITICAL TIMEOUT Gateway GW-01 no response
+2026-11-10 08:05:10 WARNING High temperature at ST-003
+2026-11-10 08:06:45 ERROR 404 Route /api/status not found
+2026-11-10 08:08:30 CRITICAL Storage service unavailable

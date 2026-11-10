@@ -1,0 +1,1 @@
+Bao cao demo. Chay scripts/auto_report.bat de them cac dong CRITICAL va ERROR.
